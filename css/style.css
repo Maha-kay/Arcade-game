@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    color: #333;
+}
+
+li {
+    list-style: none;
+}
+
+button {
+    cursor: pointer;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 16px;
+}
+
+#heading {
+    background-color: #f4f442;
+}
+
+#try-again {
+    display: none;
+}
+
+#lives,
+#score {
+    font-size: 30px;
+}
+
+#game-info {
+    background-color: #f4f442;
+    width: 505px;
+    margin: auto;
+}
